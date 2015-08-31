@@ -12,13 +12,13 @@ E-mail: pa.shabanov@gmail.com
 
 **Часть I Основы matplotlib**
 
-+ Глава 1 Библиотека matplotlib. Pyplot
++ [Глава 1 Библиотека matplotlib. Pyplot](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P1 Chapter 1 Pyplot.ipynb)
 
-+ Глава 2 Основные графические команды
++ [Глава 2 Основные графические команды](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P1 Chapter 2 Main graphical commands.ipynb)
 
-+ Глава 3 Работа с текстом и шрифтами
++ [Глава 3 Работа с текстом и шрифтами](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P1 Chapter 3 Text and Fonts.ipynb)
 
-+ Глава 4 Цвет и цветовая палитра
++ [Глава 4 Цвет и цветовая палитра](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P1 Chapter 4 Color.ipynb)
 
 **Часть II Структура рисунка в matplotlib**
 
