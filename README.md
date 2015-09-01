@@ -4,6 +4,8 @@
 
 E-mail: pa.shabanov@gmail.com
 
+URL: [Заметки по программированию в науках о Земле](http://geofortran.blogspot.ru/)
+
 Дата последнего обновления: 31.08.2015
 
 УДК 004.432.2 python
@@ -22,15 +24,15 @@ E-mail: pa.shabanov@gmail.com
 
 **Часть II Структура рисунка в matplotlib**
 
-+ Глава 5 Рисунок
++ [Глава 5 Рисунок](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P2 Chapter 5 Figure container.ipynb)
 
-+ Глава 6 Область рисования
++ [Глава 6 Область рисования](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P2 Chapter 6 Axes container.ipynb)
 
-+ Глава 7 Мультиоконные рисунки
++ [Глава 7 Мультиоконные рисунки](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P2 Chapter 7 Subplots.ipynb)
 
-+ Глава 8 Координатные оси
++ [Глава 8 Координатные оси](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P2 Chapter 8 Axis container.ipynb)
 
-+ Глава 9 Деления координатных осей
++ [Глава 9 Деления координатных осей](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P2 Chapter 9 Ticks container.ipynb)
 
 **Часть III Специальные элементы рисунка в matplotlib**
 
