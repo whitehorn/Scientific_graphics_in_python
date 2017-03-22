@@ -66,32 +66,32 @@ URL: [Заметки по программированию в науках о З
 
 **Часть I Основы matplotlib**
 
-+ [Глава 1 Библиотека matplotlib. Pyplot](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P1%Chapter%1%Pyplot.ipynb)
++ Глава 1 [Библиотека matplotlib. Pyplot](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P1%20Chapter%201%20Pyplot.ipynb)
 
-+ [Глава 2 Основные графические команды](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P1 Chapter 2 Main graphical commands.ipynb)
++ Глава 2 [Основные графические команды](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P1%20Chapter%202%20Main%20graphical%20commands.ipynb)
 
-+ [Глава 3 Работа с текстом и шрифтами](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P1 Chapter 3 Text and Fonts.ipynb)
++ Глава 3 [Работа с текстом и шрифтами](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P1%20Chapter%203%20Text%20and%20Fonts.ipynb)
 
-+ [Глава 4 Цвет и цветовая палитра](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P1 Chapter 4 Color.ipynb)
++ Глава 4 [Цвет и цветовая палитра](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P1%20Chapter%204%20Color.ipynb)
 
 **Часть II Структура рисунка в matplotlib**
 
-+ [Глава 5 Рисунок](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P2 Chapter 5 Figure container.ipynb)
++ Глава 5 [Рисунок](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P2%20Chapter%205%20Figure%20container.ipynb)
 
-+ [Глава 6 Область рисования](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P2 Chapter 6 Axes container.ipynb)
++ Глава 6 [Область рисования](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P2%20Chapter%206%20Axes%20container.ipynb)
 
-+ [Глава 7 Мультиоконные рисунки](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P2 Chapter 7 Subplots.ipynb)
++ Глава 7 [Мультиоконные рисунки](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P2%20Chapter%207%20Subplots.ipynb)
 
-+ [Глава 8 Координатные оси](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P2 Chapter 8 Axis container.ipynb)
++ Глава 8 [Координатные оси](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P2%20Chapter%208%20Axis%20container.ipynb)
 
-+ [Глава 9 Деления координатных осей](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P2 Chapter 9 Ticks container.ipynb)
++ Глава 9 [Деления координатных осей](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P2%20Chapter%209%20Ticks%20container.ipynb)
 
 **Часть III Специальные элементы рисунка в matplotlib**
 
-+ Глава 10 [Особенности координатных осей](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P3 Chapter 10 Twinx and log scale.ipynb)
++ Глава 10 [Особенности координатных осей](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P3%20Chapter%2010%20Twinx%20and%20log%20scale.ipynb)
 
-+ Глава 11 [Графики в полярной системе координат](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P3 Chapter 11 Polar plots.ipynb) 
++ Глава 11 [Графики в полярной системе координат](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P3%20Chapter%2011%20Polar%20plots.ipynb) 
 
-+ Глава 12 [Легенда](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P3 Chapter 12 Legends.ipynb)
++ Глава 12 [Легенда](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P3%20Chapter%2012%20Legends.ipynb)
 
-+ Глава 13 [Цветовая шкала](http://nbviewer.ipython.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P3 Chapter 13 Colorbar.ipynb)
++ Глава 13 [Цветовая шкала](https://github.com/whitehorn/Scientific_graphics_in_python/blob/master/P3%20Chapter%2013%20Colorbar.ipynb)
