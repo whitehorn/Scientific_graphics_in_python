@@ -3,9 +3,11 @@
 Автор: Шабанов Павел Александрович
 
 E-mail: pa.shabanov@gmail.com
+
 Telegram: @pashabanov
 
 URL: [Заметки по программированию в науках о Земле](http://geofortran.blogspot.ru/)
+
 Telegram chanel: [Телеграм-канал о климате, о морском льде и общественных инициативах в области климата](https://t.me/progeoru)
 
 Дата последнего обновления: 31.08.2015
