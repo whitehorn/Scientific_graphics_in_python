@@ -6,7 +6,7 @@ E-mail: pa.shabanov@gmail.com
 
 Telegram: @pashabanov
 
-URL: [Заметки по программированию в науках о Земле](http://geofortran.blogspot.ru/)
+URL: [Заметки по программированию в науках о Земле](https://progeoru.blogspot.com/)
 
 Telegram chanel: [Телеграм-канал о климате, о морском льде и общественных инициативах в области климата](https://t.me/progeoru)
 
